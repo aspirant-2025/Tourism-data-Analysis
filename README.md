@@ -12,6 +12,9 @@ The dataset contains information about tourist locations such as location ID ,Co
 Identified top countries with highest number of visitors,countries with highest rated locations, average rating per category , relation between visitors and rating.
 
 # Insights 
-
+India tops the country with highest number of visitors
+Identified the average rating of each category where the top rated is for adventure category.
+Germany has the highest rated location among all the countries
+There shows a negative pearson coefficient between visitors and rating which means as one increases the other decreases proportionally.
 
    
